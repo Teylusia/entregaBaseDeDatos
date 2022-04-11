@@ -55,7 +55,7 @@ primary key (id)
 );
 
 insert into categorias(nombre)
-values ('Explicativa'),('Descriptiva'),('Dialogal'),('Narrativa'),('Argumentativa'), ('instructivo'), ('expositivo'),('científico'),('literario'),('publicitario');
+values ('Explicativa'),('Descriptiva'),('Dialogal'),('Narrativa'),('Argumentativa'), ('instructivo'), ('expositivo'),('cientï¿½fico'),('literario'),('publicitario');
 
 create table notas_categorias(
 id int not null  auto_increment,
